@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on the Integrated dial-a-ride problem
+- 🌱 I’m currently learning heuristics/branch-and-cut-and-price/machine learning/Julia/Python...
+- 👯 I’m looking to collaborate on vrieties of vehicle routing problems
+- 🤔 I’m looking for help with exact solutions such as column generation!
+- 📫 How to reach me: yumeng.fang@liser.lu
 <!--
 **YMF2022/ymf2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 💻 My programming languages are Julia and Python
 -->
