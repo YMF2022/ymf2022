@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning heuristics/branch-and-cut-and-price/machine learning/Julia/Python...
 - 👯 I’m looking to collaborate on vrieties of vehicle routing problems
 - 🤔 I’m looking for help with exact solutions such as column generation for large scale routing problem!
-- 📫 How to reach me: yumeng.fang@liser.lu
+- 📫 How to reach me: yumeng.fang@uni.lu
 <!--
 **YMF2022/ymf2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
